@@ -25,7 +25,7 @@ npm or yarn package manager
 
 Installation:
 1) Clone the repository:
-git clone https://github.com/yourusername/task-management-system.git
+git clone https://github.com/RishikaVootkur/Task-Management-System.git
 cd task-management-system
 
 2) Install dependencies:
